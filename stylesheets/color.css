@@ -1,0 +1,181 @@
+
+:root {
+
+    /* Color scheme for background color ,  navigation and yellow color of background   */
+
+    --superUI-background-Color: #c0fdff;
+    --superUI-yellow-Color: #ffe066;
+    --superUI-blue-Color: #247ba0;
+
+
+
+/* Color scheme of code Snippets */
+
+    --white-showCase: whitesmoke;
+
+
+
+
+/* Alert BackGround Colors and Text Colors  */
+
+    --primary--bg: #cfe2ff;
+    --primary--text: #084298;
+
+
+    --secondary--bg: #E2E3E5;
+    --secondary--text: #41464B;
+
+    --success--bg: #d1e7dd;
+    --success--text: #0f5132;
+
+    --warning--bg: #ffecb5;
+    --warning--text: #842029;
+
+    --danger--bg: #f5c2c7;
+    --danger--text: #842029;
+
+    --info--bg: #cff4fc;
+    --info--text: #055160;
+
+    --light--bg: #fdfdfe;
+    --light--text: #636464;
+
+    --dark--bg: #d3d3d4;
+    --dark--text: #141619;
+
+
+/* General color schemes to use evry where */
+
+    --primary: blue;
+    --secondary:grey;
+    --success:green;
+    --danger:red;
+    --warning:yellow;
+    --info:lightblue;
+    --light:lightgrey;
+    --dark:black;
+    --white:white;
+
+
+
+
+
+
+
+}
+
+/* Classes For TEXT COLOR  */
+
+.text_primary{
+    color: var(--primary);
+}
+.text_secondary {
+    color: var(--secondary);
+}
+.text_success{
+    color: var(--success);
+}
+.text_danger{
+    color: var(--danger);
+}
+.text_warning{
+    color: var(--yellow);
+}
+.text_info{
+    color: var(--lightblue);
+}
+.text_light{
+    color: var(--lightgrey);
+}
+.text_dark{
+    color: var(--dark);
+}
+.text_white{
+    color: var(--white);
+}
+
+
+/* Classes for BACKGROUND COLOR */
+
+.bg_primary{
+    background-color: var(--primary);
+}
+.bg_secondary{
+    background-color: var(--secondary);
+}
+.bg_success{
+    background-color: var(--success);
+}
+.bg_danger{
+    background-color: var(--danger);
+}
+.bg_warning{
+    background-color: var(--warning);
+}
+.bg_info{
+    background-color: var(--info);
+}
+.bg_light{
+    background-color: var(--light);
+}
+.bg_dark{
+    background-color: var(--dark);
+}
+.bg_white{
+    background-color: var(--white);
+}
+
+/* Classes for ALERT component ,  TEXT COLOR property */
+.alert_text_primary{
+    background-color: var(--primary--text);
+}
+.alert_text_secondary{
+    background-color: var(--secondary--text);
+}
+.alert_text_success{
+    background-color: var(--success--text);
+}
+.alert_text_danger{
+    background-color: var(--danger--text);
+}
+.alert_text_warning{
+    background-color: var(--warning--text);
+}
+.alert_text_info{
+    background-color: var(--info--text);
+}
+.alert_text_light{
+    background-color: var(--light--text);
+}
+.alert_text_dark{
+    background-color: var(--dark--text);
+}
+
+
+
+/* Classes for ALERT component ,  BACKGROUND COLOR property */
+
+.alert_bg_primary{
+    background-color: var(--primary--bg);
+}
+.alert_bg_secondary{
+    background-color: var(--secondary--bg);
+}
+.alert_bg_success{
+    background-color: var(--success--bg);
+}
+.alert_bg_danger{
+    background-color: var(--danger--bg);
+}
+.alert_bg_warning{
+    background-color: var(--warning--bg);
+}
+.alert_bg_info{
+    background-color: var(--info--bg);
+}
+.alert_bg_light{
+    background-color: var(--light--bg);
+}
+.alert_bg_dark{
+    background-color: var(--dark--bg);
+}
