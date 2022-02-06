@@ -93,7 +93,7 @@ body {
 
 .main--content {
   /* border: 2px solid green; */
-  width: 109rem;
+  width: 80%;
   position: relative;
   overflow: auto;
 }
