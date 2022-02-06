@@ -125,7 +125,7 @@
     background-color: var(--white);
 }
 
-/* Classes for ALERT component ,  TEXT COLOR property */
+/* Classes for ALERT component ,  TEXT COLOR property
 .alert_text_primary{
     background-color: var(--primary--text);
 }
@@ -154,7 +154,7 @@
 
 
 /* Classes for ALERT component ,  BACKGROUND COLOR property */
-
+/* 
 .alert_bg_primary{
     background-color: var(--primary--bg);
 }
@@ -178,4 +178,4 @@
 }
 .alert_bg_dark{
     background-color: var(--dark--bg);
-}
+} */ 
