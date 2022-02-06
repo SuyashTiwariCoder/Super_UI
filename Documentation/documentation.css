@@ -1,0 +1,136 @@
+
+body {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  background-color: var(--superUI-background-Color);
+  font-family: "Noto Sans", sans-serif;
+  overflow: auto;
+}
+
+
+
+.navigation {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  background-color: var(--superUI-blue-Color);
+  color: var(--superUI-yellow-Color);
+  border-bottom-left-radius: 1rem;
+  border-bottom-right-radius: 1rem;
+  height: 6rem;
+}
+
+.navigation .navigation__list {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  list-style-type: none;
+}
+
+.navigation .navigation__list--item {
+  padding: 1.5rem;
+  text-align: center;
+  font-size: 1.5rem;
+  text-decoration: none;
+  color: var(--superUI-yellow-Color);
+}
+
+.navigation h1 {
+  padding: 1rem;
+  font-size: 3rem;
+  margin-left: 5rem;
+  letter-spacing: 4px;
+}
+
+.content {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  padding: 3rem;
+  gap: 5rem;
+}
+
+.sidebar {
+  /* border: 2px solid red; */
+  height: auto;
+  width: 32rem;
+  padding: 2rem;
+  overflow: auto;
+}
+
+.sidebar .divider {
+  /* border-bottom: 5px solid red; */
+  margin-bottom: 2rem;
+}
+
+.sidebar h3 {
+  padding: 2rem;
+  font-size: 2rem;
+}
+
+.sidebar ul {
+  list-style-type: none;
+}
+
+.sidebar ul li {
+  margin: 2rem 0;
+}
+
+.sidebar ul li a {
+  text-decoration: none;
+  padding: 2rem;
+  font-size: 1.5rem;
+}
+
+.main--content {
+  /* border: 2px solid green; */
+  width: 80%;
+  position: relative;
+  overflow: auto;
+}
+
+
+
+.main--content {
+    padding: 3rem;
+    height: auto;
+  }
+  
+  
+  .main--content .heading {
+    font-size: 3rem;
+    font-weight: 1000;
+  }
+  
+  .main--content h2 {
+    font-size: 2rem;
+    font-weight: 900;
+  }
+  
+  .main--content p {
+    font-size: 1.7rem;
+    padding: 2rem 0 1rem 0;
+  }
+  
+  .main--content .divider {
+    border-bottom: 3px solid var(--superUI-yellow-Color);
+    margin: 2rem 0;
+  }
+
+
+  .showcase {
+  background-color: var(--white-showCase);
+  padding: 2rem;
+  height: auto;
+  width: auto;
+  gap: 2rem;
+}
