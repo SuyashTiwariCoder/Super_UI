@@ -134,3 +134,14 @@ body {
   width: auto;
   gap: 2rem;
 }
+
+.showcase--middle {
+  background-color: var(--white-showCase);
+  padding: 2rem;
+  height: auto;
+  width: auto;
+  gap: 2rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

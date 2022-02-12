@@ -78,6 +78,11 @@
 
     --voilet:blueviolet;
 
+/* Snackbar Color */
+    --snackbar_black:#323232;
+    --snackbar_violet:#B381F0;
+
+
 
 
 
@@ -146,6 +151,12 @@
 .bg_white{
     background-color: var(--white);
 }
+
+/* Snackbar Color */
+
+
+
+
 
 /* Classes for ALERT component ,  TEXT COLOR property
 .alert_text_primary{

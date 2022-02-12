@@ -21,7 +21,9 @@
     margin-top: 2rem;
 }
 /* Padding  */
-
+.p0{
+    padding: 0rem !important;
+}
 .p-0-5{
     padding: .5rem;
 }
@@ -75,4 +77,9 @@
 }
 .txt--center{
     text-align: center;
+}
+
+/* Border Radius  */
+.br-0-5{
+    border-radius: .5rem;
 }
