@@ -145,3 +145,8 @@ footer a {
 .footer__para {
   letter-spacing: 4px;
 }
+
+.btn-home a{
+  text-decoration: none;
+  color: var(--black);
+}
