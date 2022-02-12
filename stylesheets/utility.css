@@ -83,3 +83,32 @@
 .br-0-5{
     border-radius: .5rem;
 }
+
+/* Active Classes  */
+
+.nav--active{
+    font-weight: 1000;
+}
+
+.sidebar--active{
+    font-weight: 900;
+    color: blue;
+}
+
+/* hover effect  */
+
+.sidebar li:hover{
+        border-left: 5px solid blue;
+       
+}
+
+.sidebar li a:hover{
+    color: blue;
+}
+ .divider {
+    border-bottom: 3px solid var(--superUI-yellow-Color);
+    margin: 2rem 0;
+}
+.main--content p{
+    line-height: 3rem;
+}

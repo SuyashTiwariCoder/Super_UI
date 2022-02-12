@@ -1,7 +1,7 @@
 .modal--simple{
     border: 2px solid var(--teal);
     width: 30rem;
-    height:20rem ;
+    height:23rem ;
     background-color: var(--white);
     display: flex;
     flex-direction: column;
@@ -11,7 +11,7 @@
 .modal--stacked{
     border: 2px solid var(--teal);
     width: 30rem;
-    height:25rem ;
+    height:28rem ;
     background-color: var(--white);
     display: flex;
     flex-direction: column;
