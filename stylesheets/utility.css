@@ -17,7 +17,9 @@
 .m3{
     margin: 3rem;
 }
-
+.m-t-2{
+    margin-top: 2rem;
+}
 /* Padding  */
 
 .p-0-5{
@@ -66,7 +68,7 @@
 }
 .txt--lg{
     font-size: 5rem !important;
-}
+} 
 
 .txt--grey{
     color: var(--grey);

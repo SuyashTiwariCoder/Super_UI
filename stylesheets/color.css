@@ -48,6 +48,7 @@
 
 /* General color schemes to use evry where */
 
+
     --primary: #0000ff;
     --secondary:#808080;
     --success:#008000;
@@ -61,6 +62,23 @@
     --voilet:#8a2be2;
     --teal:#008080;
     
+
+    --primary: blue;
+    --secondary:grey;
+    --success:green;
+    --danger:red;
+    --warning:yellow;
+    --info:lightblue;
+    --light:lightgrey;
+    --dark:black;
+    --white:white;
+    --grey:grey;
+
+    --teal:teal;
+
+    --voilet:blueviolet;
+
+
 
 
 
