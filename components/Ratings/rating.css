@@ -7,15 +7,10 @@
 }
 .rating--badge{
     display: flex;
-
-   
-   
-
 }
 
 .badge--container{
     background-color: white;
-   
     padding: 1rem !important;
     width: fit-content;
 }
