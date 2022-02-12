@@ -10,7 +10,7 @@
 }
 
 .badge--container{
-    background-color: white;
+    background-color: var(--white);
     padding: 1rem !important;
     width: fit-content;
 }
