@@ -11,10 +11,7 @@
 }
 
 .snackbar--text{
-  
-    text-align: center;
- 
-    
+    text-align: center;   
 }
 .exit{
    color: var(--snackbar_violet);
