@@ -64,28 +64,17 @@
     --teal:#008080;
     
 
-    --primary: blue;
-    --secondary:grey;
-    --success:green;
-    --danger:red;
-    --warning:yellow;
-    --info:lightblue;
-    --light:lightgrey;
-    --dark:black;
-    --white:white;
-    --grey:grey;
-
-    --teal:teal;
-
-    --voilet:blueviolet;
-
 /* Snackbar Color */
     --snackbar_black:#323232;
     --snackbar_violet:#B381F0;
 
 
+/* E commerce extra colors  */
 
-
+    --whiteBackground:#f8f8ff;
+    --wheat : #f5deb3;
+    --lightDark: #232524;
+    --lightWheat:#DEC99F;
 
 
 
@@ -153,63 +142,3 @@
     background-color: var(--white);
 }
 
-/* Snackbar Color */
-
-
-
-
-
-/* Classes for ALERT component ,  TEXT COLOR property
-.alert_text_primary{
-    background-color: var(--primary--text);
-}
-.alert_text_secondary{
-    background-color: var(--secondary--text);
-}
-.alert_text_success{
-    background-color: var(--success--text);
-}
-.alert_text_danger{
-    background-color: var(--danger--text);
-}
-.alert_text_warning{
-    background-color: var(--warning--text);
-}
-.alert_text_info{
-    background-color: var(--info--text);
-}
-.alert_text_light{
-    background-color: var(--light--text);
-}
-.alert_text_dark{
-    background-color: var(--dark--text);
-}
-
-
-
-/* Classes for ALERT component ,  BACKGROUND COLOR property */
-/* 
-.alert_bg_primary{
-    background-color: var(--primary--bg);
-}
-.alert_bg_secondary{
-    background-color: var(--secondary--bg);
-}
-.alert_bg_success{
-    background-color: var(--success--bg);
-}
-.alert_bg_danger{
-    background-color: var(--danger--bg);
-}
-.alert_bg_warning{
-    background-color: var(--warning--bg);
-}
-.alert_bg_info{
-    background-color: var(--info--bg);
-}
-.alert_bg_light{
-    background-color: var(--light--bg);
-}
-.alert_bg_dark{
-    background-color: var(--dark--bg);
-} */ 
