@@ -76,8 +76,11 @@
     --lightDark: #232524;
     --lightWheat:#DEC99F;
 
+/* quiz app extra colors */
 
-
+    --quiz--primaryColor: #c5d5cb;
+    --quiz--secondaryColor: #9fa8a3;
+    --quiz--tertiaryColor: #e3e0cf;
 
 }
 
@@ -96,7 +99,7 @@
     color: var(--danger);
 }
 .text_warning{
-    color: var(--yellow);
+    color: var(--warning);
 }
 .text_info{
     color: var(--lightblue);
