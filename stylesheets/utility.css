@@ -98,13 +98,14 @@
 /* hover effect  */
 
 .sidebar li:hover{
-        border-left: 5px solid blue;
+        background-color: var(--hoverSidebar);
+        filter: blur(1px);
        
 }
-
-.sidebar li a:hover{
-    color: blue;
+.sidebar li:hover a{
+    color: var(--primary);
 }
+
  .divider {
     border-bottom: 3px solid var(--superUI-yellow-Color);
     margin: 2rem 0;
